@@ -1,0 +1,6 @@
+#create virtual environment
+py -m venv <venv name>
+<venv name>\Scripts\activate.bat
+===========================
+py -m venv ./django-bot
+django-bot\Scripts\activate.bat
